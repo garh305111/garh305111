@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Wei-Ting Lin
 
-<!--
-**garh305111/garh305111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  garh305111/garh305111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
