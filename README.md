@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Wei-Ting Lin
 
-![](assets/Bottom_up.svg)
+![](Bottom_up.svg)
 
 Master Student of Bioengineering | Specialized in Data Science, ML&DL
 
