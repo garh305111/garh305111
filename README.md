@@ -4,12 +4,9 @@ Master Student of Bioengineering | Specialized in Data Science, ML&DL
 
 
 
-### My skills
 
-| Property                                  | Data                                           |
-|-------------------------------------------|------------------------------------------------|
-| Language / IDE                            | [![My Skills](https://skillicons.dev/icons?i=js,py,r)](https://skillicons.dev)                                  |
-| Databases                                 | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)                                      |
-| Frontend framework                         |[![My Skills](https://skillicons.dev/icons?i=angular,vue)](https://skillicons.dev)                                  |
-| Machine Learning / Deep Learning frameworks|[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
+### 😂 Here are a few technologies I've recently been working with!
+
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,angular)](https://skillicons.dev)                                  
+
 
