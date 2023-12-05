@@ -2,6 +2,8 @@
 
 Master Student of Bioengineering | Specialized in Data Science, ML&DL
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 | Property                                  | Data                                           |
