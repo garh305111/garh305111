@@ -4,7 +4,7 @@ Master Student of Bioengineering | Specialized in Data Science, ML&DL
 
 
 
-
+My skils
 
 | Property                                  | Data                                           |
 |-------------------------------------------|------------------------------------------------|
