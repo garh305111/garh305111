@@ -3,6 +3,8 @@
 ![](Bottom_up.svg)
 
 Master Student of Bioengineering | Specialized in Data Science, ML&DL
+My skill set encompasses a robust mastery of multiple programming languages, including Python, R, Javascript, Typescript, SQL, and NoSQL, which equips me to seamlessly navigate the intricate landscapes of diverse technological frameworks. This amalgamation of skills underscores my capacity to navigate intricate challenges inherent to the realm of cheminformatics.
+
 
 
 ## 👨🏻‍⚕️ My skills
