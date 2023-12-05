@@ -1,11 +1,5 @@
 ## 👋 Hi there, I'm Wei-Ting Lin
-
-<details>
-  <summary style="background-color: #FFA500; padding: 10px; font-weight: bold;">[Wei-Ting Lin]</summary>
-  <p>About Me：[Master Student of Bioengineering | Specialized in Data Science, ML&DL]</p>
-</details>
-
-
+Master Student of Bioengineering | Specialized in Data Science, ML&DL
 
 ### 😂 Here are a few technologies I've recently been working with!
 
